@@ -1,0 +1,10 @@
+my_all={
+    "name":"Zone",
+    "major":"计算机",
+    "goal":"shixi"
+}
+print('我的目标是：',my_all['goal'])
+my_all['goal']='agent'
+print('我的目标是：',my_all['goal'])
+my_all['skill']='python'
+print(my_all)
