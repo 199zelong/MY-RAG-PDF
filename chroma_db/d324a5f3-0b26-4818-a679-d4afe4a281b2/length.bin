@@ -1,1 +1,0 @@
-invalid type: string "_core.py\n迭代+Thomas追赶\nmake_figs.py / make_model_flow.py 论文图与技术路线图绘制\n三、数值结果文件\n按官方 result 模板填写的四问结果，结构与官方模板逐格一致：\n文件 工作表 内容 规模\nresult1.xlsx 温度 / 水分浓度 1800 s 预热场 1801行×22列\nresult2.xlsx 温度 / 水分浓度 前3 h 变物性场 ", expected 
